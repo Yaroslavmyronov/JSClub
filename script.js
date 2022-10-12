@@ -1,3 +1,4 @@
+"use strict";
 function format(data, type) {
     if (type === 'number') {
         format = function () {
